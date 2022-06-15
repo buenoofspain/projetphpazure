@@ -6,7 +6,7 @@
 <body>
 
 <?php
-echo "Bonjour, je suis un script PHP !";
+echo "Bonjour, je suis un script PHP en v2!";
 ?>
 
 </body>
